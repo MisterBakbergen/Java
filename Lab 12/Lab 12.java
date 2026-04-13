@@ -84,3 +84,4 @@ for (char c : str.toCharArray()) {
         System.out.println("Только цифры");
 else
         System.out.println("Есть другие символы");
+
